@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "Chessysmp.aternos.me:57571",
+    "port": 57571,
     "version": "",
     "try-creative": false
   },
